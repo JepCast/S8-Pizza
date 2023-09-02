@@ -11,6 +11,7 @@ public class Topping {
         this.ingredientes.add(ingrediente);
     }
 
+    // Constructor
     public Topping(String nombre, double price) {
         this.nombre = nombre;
         this.price  = price;

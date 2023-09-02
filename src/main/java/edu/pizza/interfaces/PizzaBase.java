@@ -2,7 +2,7 @@ package edu.pizza.interfaces;
 
 public class PizzaBase implements IPreparable{
     private String nombre;
-    private double precio;
+    private final double precio;
     public PizzaBase(String nombre, double precio) {
         this.nombre = nombre;
         this.precio = precio;
