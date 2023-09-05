@@ -6,16 +6,16 @@ import edu.pizza.base.Topping;
 public class PizzaItaliana extends Pizza {
 
     private String salsa;
-    public PizzaItaliana(String name,String Salsa, double price, Topping... toppings) {
-        super(name, price, toppings);
+    public PizzaItaliana(String name, String salsa, String tamanio, Topping... toppings) {
+        super(name, tamanio, toppings);
         this.salsa=salsa;
     }
 
-    public String getSalsa() {
+    public String getsalsa() {
         return salsa;
     }
 
-    public void setSalsa(String salsa) {
+    public void setsalsa(String salsa) {
         this.salsa = salsa;
     }
 }

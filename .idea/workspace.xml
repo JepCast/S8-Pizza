@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07b7f10a-6c85-4276-84c2-4d8fa031aed2" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/pizza/especialidades/PizzaMargarita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/pizza/especialidades/PizzaPepperoni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/pizza/especialidades/PizzaVegana.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/pizza/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/pizza/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/pizza/base/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/pizza/base/Pizza.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/pizza/base/Topping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/pizza/base/Topping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/pizza/especialidades/PizzaItaliana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/pizza/especialidades/PizzaItaliana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/pizza/interfaces/IPreparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/pizza/interfaces/IPreparable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/pizza/interfaces/PizzaBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/pizza/interfaces/PizzaBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,17 +24,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2UqWv0Wsk1vHcGS8j2vdIGKj7xd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,26 +42,29 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="edu.pizza" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.pizza.especialidades" />
     </key>
   </component>
   <component name="RunManager">
@@ -80,7 +90,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693667819922</updated>
-      <workItem from="1693667820957" duration="5376000" />
+      <workItem from="1693667820957" duration="5402000" />
+      <workItem from="1693936007031" duration="8331000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -90,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693672207280</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=".">
+      <option name="closed" value="true" />
+      <created>1693673224718</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693673224718</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
