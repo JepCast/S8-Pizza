@@ -6,10 +6,8 @@ import java.util.List;
 
 public class Pizza {
         private String name;
-//        private final double price;
         private List<Topping> toppings = new ArrayList<>();
         private String tamanio;
-
 
     public double getTotalPrice() {
         double total = 0;

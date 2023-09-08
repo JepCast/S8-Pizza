@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07b7f10a-6c85-4276-84c2-4d8fa031aed2" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/pizza/especialidades/PizzaMargarita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/pizza/especialidades/PizzaPepperoni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/pizza/especialidades/PizzaVegana.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/pizza/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/pizza/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/pizza/base/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/pizza/base/Pizza.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/pizza/base/Topping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/pizza/base/Topping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/pizza/especialidades/PizzaItaliana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/pizza/especialidades/PizzaItaliana.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/pizza/interfaces/IPreparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/pizza/interfaces/IPreparable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/pizza/interfaces/PizzaBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/pizza/interfaces/PizzaBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +84,9 @@
       <option name="presentableId" value="Default" />
       <updated>1693667819922</updated>
       <workItem from="1693667820957" duration="5402000" />
-      <workItem from="1693936007031" duration="8331000" />
+      <workItem from="1693936007031" duration="8705000" />
+      <workItem from="1693973052010" duration="57000" />
+      <workItem from="1694144570014" duration="2270000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -109,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693673224718</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".">
+      <option name="closed" value="true" />
+      <created>1693944921604</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693944921604</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
